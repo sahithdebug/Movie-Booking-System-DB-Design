@@ -58,6 +58,6 @@ The project also includes an **ER diagram, relational schema, functional depende
 
 This repository contains the database design documentation and related materials for the Movie Ticket Booking and Snack Ordering System.
 
----
+----
 
 **Database Management Systems – Academic Project**
